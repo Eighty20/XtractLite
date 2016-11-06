@@ -1,0 +1,35 @@
+{
+  "name": "xtractlite",
+  "version": "1.0.0",
+  "description": "A demo project for WebDev Training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eighty20/XtractLite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eighty20/XtractLite/issues"
+  },
+  "homepage": "https://github.com/Eighty20/XtractLite#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  },
+  "devDependencies": {
+    "browserify": "^13.1.1",
+    "gulp": "^3.9.1",
+    "gulp-sourcemaps": "^2.2.0",
+    "lodash": "^4.16.6",
+    "lodash.assign": "^4.2.0",
+    "reactify": "^1.1.1",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.7.0"
+  }
+}
