@@ -1,0 +1,12 @@
+.navbar {
+    background-color: #283645;
+}
+
+.navbar-brand {
+    height: 100px;
+    width: 200px;
+}
+
+#page-content {
+    margin-top: 120px;
+}
